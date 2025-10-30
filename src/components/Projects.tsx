@@ -4,10 +4,10 @@ import { ExternalLink, Github } from "lucide-react";
 
 const projects = [
   {
-    title: "E-Commerce Platform",
+    title: "Crowdsourced Platform",
     description: "Full-stack e-commerce solution built with React, Node.js, Express, and MongoDB. Features include user authentication, product management, shopping cart, and payment integration.",
     tech: ["React", "Node.js", "MongoDB", "Express"],
-    github: "https://github.com/markjed1812",
+    github: "https://meyc-assist.page.gd/index.php?i=1",
     demo: "#"
   },
   {
